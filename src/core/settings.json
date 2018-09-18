@@ -1,0 +1,30 @@
+{
+	"token": "NDkxMzkzNDkzMDQyOTg3MDE4.DoHaGg.JqF7_gfuISnDCNoa6gvRVfwTrq8",
+	"osutoken": "token",
+	"carbonitex": "token",
+	"discordbot": "token",
+	"dborg": "token",
+	"discordbotfr": "token",
+	"discordlist": "token",
+	"mashape": "token",
+	"datadog": {
+		"user": "username",
+		"pass": "password"
+	},
+	"mysql": {
+		"host": "remotemysql.com",
+		"user": "fTSdFck3im",
+		"password": "OSOJC6GzIs",
+		"database": "fTSdFck3im"
+	},
+	"guildhook": {
+		"id":"hook_id",
+		"token":"hook_token"
+	},
+	"prefix": "%",
+	"ownerid": "201632163991519233",
+	"author": "! 𝓓𝓚 xOnlyFadi ツ#1513",
+	"invite": "none",
+	"support": "none",
+	"website": "none"
+}
